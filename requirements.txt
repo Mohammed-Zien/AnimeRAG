@@ -1,0 +1,10 @@
+langchain
+langsmith
+chromadb
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+langchain_community
+ipywidgets
+langchain-huggingface

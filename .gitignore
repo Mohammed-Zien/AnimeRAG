@@ -1,0 +1,40 @@
+# Python virtual environment
+.venv/
+.env
+
+# Chroma DB storage
+chroma_db/
+
+# Data files
+Anime5k/
+Anime5k_upload/
+
+# Scraping Scripts
+scraper/
+
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Keep these files
+!documents/
+!notebook.ipynb
+!requirements.txt
