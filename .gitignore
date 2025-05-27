@@ -4,10 +4,12 @@
 
 # Chroma DB storage
 chroma_db/
+Anime5k_chroma_db/
 
 # Data files
 Anime5k/
 Anime5k_upload/
+Anime5K_chroma_db_v1/
 
 # Scraping Scripts
 scraper/

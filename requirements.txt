@@ -8,3 +8,5 @@ bitsandbytes
 langchain_community
 ipywidgets
 langchain-huggingface
+bitsandbytes
+huggingface_hub
