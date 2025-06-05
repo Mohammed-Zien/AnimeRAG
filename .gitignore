@@ -4,7 +4,7 @@
 
 # Chroma DB storage
 chroma_db/
-Anime5k_chroma_db/
+Anime5k_chromaDB/
 
 # Data files
 Anime5k/

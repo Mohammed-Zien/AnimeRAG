@@ -10,3 +10,4 @@ ipywidgets
 langchain-huggingface
 bitsandbytes
 huggingface_hub
+lark
